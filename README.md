@@ -4,7 +4,7 @@ Accurate starfield generator based on real-world star data sets gathered relativ
 
 ## Development Video
 A development video detailing the creation process of this system may be found as part of my Keplerian Orbital Mechanics process video,
-<br>[Simulations - Keplerian Orbits](https://www.youtube.com/watch?v=t89De819YMA)
+<br>[Simulations - Keplerian Orbits](https://youtu.be/t89De819YMA?t=1100)
 
 ![AccurateStarfield](https://raw.githubusercontent.com/ScottyRAnderson/Images/master/accurate-starfield_feature_1.jpg)
 ![ConstellationIdentification](https://raw.githubusercontent.com/ScottyRAnderson/Images/master/accurate-starfield_feature_2.jpg)
